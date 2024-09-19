@@ -1,3 +1,11 @@
+# seongunKim😎
+
+![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=#00599C)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=#4479A1)
+
+
 
 [![코드트리|실력진단-seongunkim](https://banner.codetree.ai/v1/banner/seongunkim)](https://www.codetree.ai/profiles/seongunkim)
 
