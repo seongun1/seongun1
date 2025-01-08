@@ -1,4 +1,5 @@
 # seongunKim😎
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh8579)](https://solved.ac/gh8579/)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20EveryOne!&animation=&fontColor=13240a&fontSize=70" />
