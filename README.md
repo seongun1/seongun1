@@ -3,7 +3,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20EveryOne!&animation=&fontColor=13240a&fontSize=70" />
     </div>
-    <div align= "center"> 
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 꾸준함의 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li>백엔드 개발자<br></li></li><li>꾸준함을 중시하는 개발자입니다.<br> </li></li><li>어떠한 질문이던 환영합니다!</li> </div> 
     </div>
